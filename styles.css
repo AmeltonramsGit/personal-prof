@@ -4,9 +4,13 @@ background-color:#f4f4f4;
 }
 
 .hero{
-background:#007bff;
-color:white;
-padding:60px 20px;
+    height: 100vh;
+    background:
+    linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+    url("https://4kwallpapers.com/images/walls/thumbs_3t/4125.jpg");
+
+    background-size: cover;
+    background-position: center;
 }
 
 .profile-img{
